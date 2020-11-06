@@ -1,0 +1,219 @@
+body{
+    margin: 0;
+}
+#fondo img{
+    width:1263px;
+    height: 900px;
+}
+#titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #473b38;
+    position: absolute;
+    top:150px;
+    margin-left: 400px;
+    font-size: 2rem;
+}
+#white{
+    width: 412px;
+    height: 875px;
+    background-color:#f8f4f4;
+    position: absolute;
+    top:10px;
+    right:50px;
+}
+#title1{
+    color:#778b33;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top:10px;
+    right: 350px;
+}
+#usuario{
+    width:20px;
+    height: 20px;
+    position: absolute;
+    z-index: 1; 
+    top:80px;
+    right:0;
+    margin-right: 400px;
+}
+#email{
+    width:20px;
+    height: 20px;
+    position: absolute;
+    z-index: 1;
+    top:130px;
+    right: 0px;
+    margin-right: 400px;
+}
+#password{
+    width:22px;
+    height: 22px;
+    position: absolute;
+    z-index: 1;
+    top:180px;
+    right: 0;
+    margin-right: 399px;
+}
+#raya1{
+    width: 1.5px;
+    height: 43px;
+    background-color: #b9b5b5;
+    top:70px;
+    z-index: 2;
+    position: absolute;
+    right: 385px;
+}
+#raya2{
+    width: 1.5px;
+    height: 43px;
+    background-color: #b9b5b5;
+    top:120px;
+    z-index: 2;
+    position: absolute;
+    right: 385px;
+}
+#raya3{
+    width: 1.5px;
+    height: 43px;
+    background-color: #b9b5b5;
+    top:170px;
+    z-index: 2;
+    position: absolute;
+    right: 385px;
+}
+#cuadro1{
+    width: 250px;
+    height: 40px;
+    background-color: #e9e7e8;
+    position: absolute;
+    top:70px;
+    right:180px;
+    border: 1.5px solid #b9b5b5;
+}
+#cuadro2{
+    width: 250px;
+    height: 40px;
+    background-color: #e9e7e8;
+    position: absolute;
+    top:120px;
+    right:180px;
+    border: 1.5px solid #b9b5b5;
+}
+#cuadro3{
+    width: 250px;
+    height: 40px;
+    background-color: #e9e7e8;
+    position: absolute;
+    top:170px;
+    right:180px;
+    border: 1.5px solid #b9b5b5;
+}
+#full-name{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+    position: absolute;
+    top:65px;
+    right: 300px;
+}
+#correo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+    position: absolute;
+    top:115px;
+    right: 327px;
+}
+#contraseña{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+    position: absolute;
+    top:165px;
+    right: 305px;
+}
+#cuadro4{
+    width: 220px;
+    height: 40px;
+    background-color: #e9e7e8;
+    position: absolute;
+    top:300px;
+    right:208px;
+    border: 1.5px solid #b9b5b5;
+}
+#title2{
+    color:#778b33;
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top:240px;
+    right: 305px;
+}
+#fecha{
+    color:#787869;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top:312px;
+    right:305px;
+}
+#agenda{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 230px;
+    top:310px;
+}
+#male{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 1rem;
+    position: absolute;
+    top: 440px;
+    right: 350px;
+    z-index: 1;
+}
+#cuadro5{
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    right: 330px;
+    top:430px;
+    background-color: #778b33;
+    border-radius: 10px 10px 10px 10px;
+}
+#title3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    right: 360px;
+    top: 370px;
+    color:#778b33;
+}
+#punto1{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 442px;
+    right: 400px;
+}
+#female{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 1rem;
+    position: absolute;
+    top: 440px;
+    right: 220px;
+    z-index: 1;
+}
+#cuadro6{
+    width: 130px;
+    height: 40px;
+    position: absolute;
+    right: 190px;
+    top:430px;
+    background-color: #778b33;
+    border-radius: 10px 10px 10px 10px;
+}
+#punto2{
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 442px;
+    right: 285px;
+}
