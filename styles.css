@@ -291,10 +291,10 @@ body{
     background-color: #e9e7e8;
 }
 #cuadro11{
-    width: 200px;
+    width: 210px;
     height: 40px;
     position: absolute;
-    right: 225px;
+    right: 215px;
     top:630px;
     border: 1.5px solid #b9b5b5;
     background-color: #e9e7e8;
@@ -357,7 +357,7 @@ body{
     right: 310px;
     color: #787869;
 }
-#agenda{
+#agenda2{
     width: 20px;
     height: 20px;
     position: absolute;
@@ -379,12 +379,25 @@ h4{
     right: 130px;
     top: 730px;
 }
-#check{
+input{
     position: absolute;
-    right:200px;
-    top: 790px;
+    right:415px;
+    top: 730px;
 }
 #cuadro12{
     background-color: #778b33;
     border-radius: 10px 10px 10px 10px;
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    right: 210px;
+    top:815px;
+}
+#registro{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+    position: absolute;
+    right: 231px;
+    top: 825px;
+
 }
