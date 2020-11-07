@@ -25,7 +25,7 @@ body{
     color:#778b33;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: absolute;
-    top:10px;
+    top:0px;
     right: 350px;
 }
 #usuario{
@@ -33,7 +33,7 @@ body{
     height: 20px;
     position: absolute;
     z-index: 1; 
-    top:80px;
+    top:60px;
     right:0;
     margin-right: 400px;
 }
@@ -42,7 +42,7 @@ body{
     height: 20px;
     position: absolute;
     z-index: 1;
-    top:130px;
+    top:112px;
     right: 0px;
     margin-right: 400px;
 }
@@ -51,7 +51,7 @@ body{
     height: 22px;
     position: absolute;
     z-index: 1;
-    top:180px;
+    top:160px;
     right: 0;
     margin-right: 399px;
 }
@@ -59,7 +59,7 @@ body{
     width: 1.5px;
     height: 43px;
     background-color: #b9b5b5;
-    top:70px;
+    top:50px;
     z-index: 2;
     position: absolute;
     right: 385px;
@@ -68,7 +68,7 @@ body{
     width: 1.5px;
     height: 43px;
     background-color: #b9b5b5;
-    top:120px;
+    top:100px;
     z-index: 2;
     position: absolute;
     right: 385px;
@@ -77,7 +77,7 @@ body{
     width: 1.5px;
     height: 43px;
     background-color: #b9b5b5;
-    top:170px;
+    top:150px;
     z-index: 2;
     position: absolute;
     right: 385px;
@@ -87,7 +87,7 @@ body{
     height: 40px;
     background-color: #e9e7e8;
     position: absolute;
-    top:70px;
+    top:50px;
     right:180px;
     border: 1.5px solid #b9b5b5;
 }
@@ -96,7 +96,7 @@ body{
     height: 40px;
     background-color: #e9e7e8;
     position: absolute;
-    top:120px;
+    top:100px;
     right:180px;
     border: 1.5px solid #b9b5b5;
 }
@@ -105,7 +105,7 @@ body{
     height: 40px;
     background-color: #e9e7e8;
     position: absolute;
-    top:170px;
+    top:150px;
     right:180px;
     border: 1.5px solid #b9b5b5;
 }
@@ -113,21 +113,21 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 1rem;
     position: absolute;
-    top:65px;
+    top:47px;
     right: 300px;
 }
 #correo{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 1rem;
     position: absolute;
-    top:115px;
+    top:97px;
     right: 327px;
 }
 #contraseña{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 1rem;
     position: absolute;
-    top:165px;
+    top:145px;
     right: 305px;
 }
 #cuadro4{
@@ -135,7 +135,7 @@ body{
     height: 40px;
     background-color: #e9e7e8;
     position: absolute;
-    top:300px;
+    top:250px;
     right:208px;
     border: 1.5px solid #b9b5b5;
 }
@@ -143,29 +143,29 @@ body{
     color:#778b33;
     position: absolute;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    top:240px;
+    top:200px;
     right: 305px;
 }
 #fecha{
     color:#787869;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: absolute;
-    top:312px;
+    top:262px;
     right:305px;
 }
 #agenda{
     width: 20px;
     height: 20px;
     position: absolute;
-    right: 230px;
-    top:310px;
+    right: 245px;
+    top:262px;
 }
 #male{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
     font-size: 1rem;
     position: absolute;
-    top: 440px;
+    top: 360px;
     right: 350px;
     z-index: 1;
 }
@@ -174,7 +174,7 @@ body{
     height: 40px;
     position: absolute;
     right: 330px;
-    top:430px;
+    top:350px;
     background-color: #778b33;
     border-radius: 10px 10px 10px 10px;
 }
@@ -182,14 +182,14 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: absolute;
     right: 360px;
-    top: 370px;
+    top: 300px;
     color:#778b33;
 }
 #punto1{
     width: 15px;
     height: 15px;
     position: absolute;
-    top: 442px;
+    top: 362px;
     right: 400px;
 }
 #female{
@@ -197,7 +197,7 @@ body{
     color: white;
     font-size: 1rem;
     position: absolute;
-    top: 440px;
+    top: 360px;
     right: 220px;
     z-index: 1;
 }
@@ -206,7 +206,7 @@ body{
     height: 40px;
     position: absolute;
     right: 190px;
-    top:430px;
+    top:350px;
     background-color: #778b33;
     border-radius: 10px 10px 10px 10px;
 }
@@ -214,6 +214,161 @@ body{
     width: 15px;
     height: 15px;
     position: absolute;
-    top: 442px;
+    top: 362px;
     right: 285px;
+}
+#title4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    right: 290px;
+    top: 400px;
+    color:#778b33;
+}
+#cuadro7{
+    width: 130px;
+    height: 40px;
+    position: absolute;
+    right: 300px;
+    top:460px;
+    background-color: #778b33;
+    border-radius: 10px 10px 10px 10px;
+}
+#cuadro8{
+    width: 130px;
+    height: 40px;
+    position: absolute;
+    right: 160px;
+    top:460px;
+    background-color: #778b33;
+    border-radius: 10px 10px 10px 10px;
+}
+#visa{
+    width: 25px;
+    height: 12px;
+    position: absolute;
+    top:475px;
+    right: 395px;
+}
+#paypal{
+    width: 28px;
+    height: 12px;
+    position: absolute;
+    top: 473px;
+    right: 245px;
+}
+#tarjet-credito{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+    position: absolute;
+    right: 310px;
+    top: 470px;
+    color: white;
+}
+#digital{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+    position: absolute;
+    right: 190px;
+    top: 470px;
+    color: white;
+}
+#cuadro9{
+    width: 250px;
+    height: 40px;
+    position: absolute;
+    right: 175px;
+    top:530px;
+    border: 1.5px solid #b9b5b5;
+    background-color: #e9e7e8;
+}
+#cuadro10{
+    width: 250px;
+    height: 40px;
+    position: absolute;
+    right: 175px;
+    top:580px;
+    border: 1.5px solid #b9b5b5;
+    background-color: #e9e7e8;
+}
+#cuadro11{
+    width: 200px;
+    height: 40px;
+    position: absolute;
+    right: 225px;
+    top:630px;
+    border: 1.5px solid #b9b5b5;
+    background-color: #e9e7e8;
+}
+#raya4{
+    width: 1.5px;
+    height: 43px;
+    background-color: #b9b5b5;
+    top:530px;
+    z-index: 1;
+    position: absolute;
+    right: 380px;
+}
+#raya5{
+    width: 1.5px;
+    height: 43px;
+    background-color: #b9b5b5;
+    top:580px;
+    z-index: 1;
+    position: absolute;
+    right: 380px;
+}
+#tarjet{
+    width: 18px;
+    height: 20px;
+    position: absolute;
+    right: 396px;
+    top:540px;
+    z-index:1;
+}
+#numero-tarjeta{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    font-size: 1rem;
+    top:541px;
+    right: 280px;
+    color: #787869;
+}
+#llave{
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    right: 396px;
+    top:592px;
+    z-index: 1;
+}
+#candado{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    font-size: 1rem;
+    top:591px;
+    right: 338px;
+    color: #787869;
+}
+#fecha2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    font-size: 1rem;
+    top:641px;
+    right: 310px;
+    color: #787869;
+}
+#agenda{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 260px;
+    top:640px;
+    z-index: 1;
+}
+h4{
+    color: #778b33;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    right: 280px;
+    top:680px;
 }
