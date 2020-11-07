@@ -372,3 +372,19 @@ h4{
     right: 280px;
     top:680px;
 }
+#terminos{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #757980;
+    position: absolute;
+    right: 130px;
+    top: 730px;
+}
+#check{
+    position: absolute;
+    right:200px;
+    top: 790px;
+}
+#cuadro12{
+    background-color: #778b33;
+    border-radius: 10px 10px 10px 10px;
+}
